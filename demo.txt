@@ -1,12 +1,13 @@
 My first GIT file
 
 
+	New File Started
 
 
 Again starting New
 
 
+hi everyone
+
 Third Command is working 
 Fourth
-
-new_branch
