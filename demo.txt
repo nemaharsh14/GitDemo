@@ -5,3 +5,6 @@ My first GIT file
 
 
 Again starting New
+
+
+Third Command is working 
