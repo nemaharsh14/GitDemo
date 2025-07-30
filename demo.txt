@@ -1,7 +1,6 @@
 My first GIT file
 
 
-	New File Started
 
 
 Again starting New
@@ -9,3 +8,5 @@ Again starting New
 
 Third Command is working 
 Fourth
+
+new_branch
